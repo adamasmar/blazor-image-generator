@@ -1,0 +1,15 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_blazor_image_generator_name": {
+            "value": null
+        },
+        "serverfarms_ASP_rgblazorimagegenerator_9c38_name": {
+            "value": null
+        },
+        "userAssignedIdentities_blazor_image_gen_id_b9bc_name": {
+            "value": null
+        }
+    }
+}
